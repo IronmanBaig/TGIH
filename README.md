@@ -1,2 +1,2 @@
 # TGIH
-City Corporation Complaints Management System
+Sunstar City Corporation Complaints Management System
